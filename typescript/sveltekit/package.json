@@ -20,7 +20,7 @@
     "eslint-plugin-svelte3": "^4.0.0",
     "prettier": "^2.8.0",
     "prettier-plugin-svelte": "^2.8.1",
-    "prisma": "4.11.0-dev.15",
+    "prisma": "4.11.0-dev.16",
     "svelte": "^3.54.0",
     "svelte-check": "^2.9.2",
     "ts-node": "10.9.1",
@@ -30,7 +30,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@prisma/client": "4.11.0-dev.15"
+    "@prisma/client": "4.11.0-dev.16"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
